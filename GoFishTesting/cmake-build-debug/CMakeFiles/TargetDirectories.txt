@@ -1,0 +1,3 @@
+/Users/Huigi/Desktop/EE312Programs/GoFishTesting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Huigi/Desktop/EE312Programs/GoFishTesting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Huigi/Desktop/EE312Programs/GoFishTesting/cmake-build-debug/CMakeFiles/GoFishTesting.dir
